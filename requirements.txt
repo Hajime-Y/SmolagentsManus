@@ -41,3 +41,4 @@ SpeechRecognition
 browser-use
 aiofiles
 smolagents
+litellm
