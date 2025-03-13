@@ -38,3 +38,6 @@ python-pptx
 torch
 xlrd
 SpeechRecognition
+browser-use
+aiofiles
+smolagents
